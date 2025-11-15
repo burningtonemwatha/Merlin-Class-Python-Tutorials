@@ -1,8 +1,8 @@
-#password = ""
-#while password != "letmein":
-#    password = input("Enter the password: ")
+password = ""
+while password != "letmein":
+    password = input("Enter the password: ")
 
-#print("Access granted!")
+print("Access granted!")
 
 #pyhton methods for looping actions
 # Enumirates(): useful when we want both index and value
